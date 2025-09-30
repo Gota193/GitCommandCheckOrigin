@@ -1,3 +1,4 @@
+/* Version 3 */
 
 body {
   margin: 0;
@@ -22,5 +23,5 @@ body {
   padding: 1rem;
   position: fixed;
   bottom: 0;
-  width: 90%;
+  width: 100%;
 }
